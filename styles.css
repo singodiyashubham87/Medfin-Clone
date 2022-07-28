@@ -435,6 +435,7 @@ div.greyPartThree button{
     font-size: 0.8rem;
     width: 12rem;
     margin-bottom: 2rem;
+    color: #fff;
 }
 
 div.partFive{
@@ -465,6 +466,7 @@ div.buttons button.btn-lg , div.greyPartFour button.btn-lg{
     width: 14rem;
     margin-right: 1rem;
     font-size: 1rem;
+    color: #fff;
 }
 
 i.fa-calendar-days{
