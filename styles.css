@@ -1,0 +1,526 @@
+.darkBlue{
+    color: #1f4570;
+}
+
+.lightBlue{
+    color: #297abe;
+}
+
+.White{
+    color: #fff;
+}
+
+.Bold{
+    font-weight: bold;
+}
+
+.Montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Flex{
+    display: flex;
+}
+
+.flexFlow{
+    flex-flow: column wrap;
+}
+
+.Justify{
+    justify-content: center;
+}
+
+.Align{
+    align-items: center;
+}
+
+
+
+div.partOne{
+    background-color: #2d6ea6;
+    padding: 1rem 15rem 1rem 19rem;
+    width: 100vw;
+}
+
+div.leftDiv{
+    margin-right: 3rem;
+    justify-content: flex-start;
+    padding-top: 1rem;
+}
+
+h1.title{
+    font-size: 2.5rem;
+}
+
+p.subTitle{
+    font-family: 'Cairo', sans-serif;
+    font-size: 0.65rem;
+    margin: 0;
+}
+
+h2.mission{
+    font-size: 2.7rem;
+    font-weight: 400;
+    width: 36rem;
+    line-height: 3.5rem;
+    margin: 0 0 1.5rem 0;
+}
+
+div.btnContainer{
+    color: #000;
+    width: 30vw;
+    justify-content: space-between;
+}
+
+div.btnDivs{
+    background-color: #fff;
+    border-radius: 0.5rem;
+    max-width: 5rem;
+    max-height: 5.3rem;
+    text-align: center;
+    padding: 0.8rem 0 0 0;
+}
+
+.btnDivs i{
+    font-size: 1.4rem;
+}
+
+p.Button{
+    font-size: 0.7rem;
+    text-align: center;
+    font-weight : 600;
+    position: relative;
+    top: 0.4rem;
+}
+
+div.rightDiv{
+    padding-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+i.fa-circle-down{
+    font-size: 2.5rem;
+}
+
+h2.knowMore{
+    margin: 1rem 0 0.6rem 0;
+    font-weight: 300;
+}
+
+div.formFill{
+    margin-top: 1rem;
+}
+
+input{
+    padding: 0.2rem;
+}
+
+input, select{
+    width: 19rem;
+    height: 2.5rem;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+label{
+    margin: 1rem 0 0.2rem 0;
+    font-family: 'Poppins';
+}
+
+label[for=NAME]{
+    margin: 0;
+}
+
+div.rightDiv button, .btnPartThree .btn-lg, div.leftPart button{
+    margin-top: 1.5rem;
+    width: 19rem;
+    background-color: #f72680;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+section.partTwo{
+    background-color: #fff;
+    height: 13.7rem;
+}
+
+div.partTwo{
+    flex-direction: column;
+    position: relative;
+    left: 26rem;
+    padding-top: 2rem;
+    width: 55vw;
+}
+
+img.doctor{
+    display: inline;
+    height: 25rem;
+    width: 25rem;
+    position: absolute;
+    left: 7rem;
+    top: 21.6rem;
+    z-index: 1;
+}
+
+h1.partTwo{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 800;
+    font-size: 2.7rem;
+    display: inline;
+    width: 35vw;
+    margin: 0 0 0 12rem;
+}
+
+h5.partTwo{
+    display: inline;
+    width: 25vw;
+    font-size: 1rem;
+    letter-spacing: 0.04rem;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 12rem;
+
+}
+
+hr.partTwo{
+    margin: 0 0 1.5rem 0;
+    background-color: #297abe;
+    height: 0.25rem;
+}
+
+p.partTwo{
+    width: 40vw;
+    font-family: 'Poppins';
+    margin: 0 0 0 12rem;
+}
+
+h6.partTwo{
+    font-family: 'Poppins';
+    margin: 0.5rem 0 1rem 12rem;
+}
+
+
+
+div.greyPartOne{
+    width: 100%;
+    height: 6.5rem;
+    background-color: #F1F1F1;
+    justify-content: space-evenly;
+}
+
+div.childGrey{
+    color: #2d6ea6;
+    width: 15rem;
+    height: 5rem;
+
+}
+
+.childGrey .fa-solid{
+    font-size: 3.5rem;
+    margin-top: 1rem;
+}
+
+h4.greyOne{
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    margin-left: 2rem;
+    position: relative;
+    bottom: 1.4rem;
+}
+
+h6.greyOne{
+    font-family: 'Nunito', sans-serif;
+    display: inline-block;
+    width: 7rem;
+    font-size: 0.8rem;
+    position: relative;
+    bottom: 1.4rem;
+    left: 6.2rem;
+}
+
+h6.check{
+    width: 8rem;
+    left: 5.9rem;
+}
+
+h6.dollar{
+    left: 5.8rem;
+}
+
+h6.expert{
+    left: 6.7rem;
+}
+
+div.headPartThree{
+    padding: 4rem 15rem 2rem;
+    flex-direction: column;
+}
+
+p.partThree{
+    font-size: 0.8rem;
+    letter-spacing: .06rem;
+    margin: 1.5rem 0;
+}
+
+table{
+    text-align: center;
+}
+
+.textAlign{
+    text-align: center;
+}
+
+tr th{
+    text-align: left;
+}
+
+th{
+    max-width: 8rem;
+}
+
+.fa-xmark{
+    color: #EB1D36;
+}
+
+.fa-check{
+    color: #3CCF4E;
+}
+
+div.btnPartThree{
+    margin: 2rem 0 4rem;
+}
+
+div.btnPartThree .btn-primary{
+    margin-left: 2rem;
+}
+
+.partThreeEnd{
+    color: #f72680;
+}
+
+h1.p3{
+    max-width: 35rem;
+    text-align: center;
+}
+
+section.greyPartTwo{
+    background-color: #F1F1F1;
+}
+
+div.greyPartTwo{
+    justify-content: space-evenly;
+    padding: 2rem 15rem 1rem 15rem;
+}
+
+h1.bigTextGrey{
+    max-width: 40rem;
+    color: #f72680;
+    font-size: 2.5rem;
+}
+
+div.leftPart{
+    margin-left: 3rem;
+}
+
+div.leftPart button{
+    max-width: 15rem;
+    font-size: .9rem;
+}
+
+.greyPartTwo hr{
+    border: 1px solid #1f4570;
+    height: 15rem;
+    margin: 0;
+}
+
+ul.greyPartTwo{
+    font-size: 1rem;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 5rem;
+}
+
+div ul li{
+    margin-bottom: 0.5rem;
+}
+
+div.partFour{
+    flex-direction: column;
+    margin: 3rem 0 3rem 0;
+}
+
+h3.partFour{
+    font-family: 'Poppins', sans-serif;
+}
+
+h6.partFour{
+    text-align: center;
+    padding: 0.3rem 0 0.3rem 4rem;
+    width: 50rem;
+    margin-top: 1.5rem;
+    font-family: 'Nunito';
+    border: 1px solid #b3ccff;
+}
+
+section.greyPartThree{
+    background-color: #F1F1F1;
+}
+
+div.greyPartThree{
+    flex-direction: column;
+    margin-bottom:1rem;
+    padding-top: 1rem;
+}
+
+h2.greyPartThree{
+    font-family: 'Poppins',sans-serif;
+    margin: 1rem;
+}
+
+div.icons{
+    flex-wrap: wrap;
+    padding-right: 8rem;
+    text-align: center;
+}
+
+div.break{
+    flex-basis: 100%;
+    height: 0;
+}
+
+.greyPartThree i{
+    font-size: 4rem;
+    margin: 2rem 2rem;
+    color: #FEB139;
+}
+
+i p{
+    line-height: 1.5rem;
+    font-size: 0.8rem;
+    color: #000;
+    letter-spacing: 0.1rem;
+}
+
+i p strong{
+    padding-top: 5rem;
+    font-size: 1rem;
+}
+
+i.doctor{
+    flex-grow: 0.08;
+    padding-left: 2rem;
+}
+
+i.fa-indian-rupee-sign{
+    flex-grow: 0.045;
+}
+
+i.fa-handshake-angle{
+    flex-grow: 1rem;
+}
+
+i.dollar{
+    padding-left: 4rem;
+}
+
+i.shield{
+    flex-grow: 0.1;
+    padding-left: 1.5rem;
+}
+
+div.greyPartThree button{
+    background-color: #f72680;
+    font-size: 0.8rem;
+    width: 12rem;
+    margin-bottom: 2rem;
+}
+
+div.partFive{
+    padding: 3rem 6rem;
+}
+
+h3.partFive{
+    font-weight: 300;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+div.checkIcon i, div.checkIcon2 i{
+    margin: 0 3rem 2rem 0;
+}
+
+div.checkIcon h6, div.checkIcon2 h6{
+    margin-top: .2rem;
+}
+
+div.checkIcon2 h6.partFive{
+    max-width: 26rem;
+    margin-bottom: 2rem;
+}
+
+div.buttons button.btn-lg , div.greyPartFour button.btn-lg{
+    background-color: #f72680;
+    width: 14rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+
+i.fa-calendar-days{
+    font-size: 15rem;
+}
+
+div.greyPartFour{
+    background-color: #F1F1F1;
+}
+
+h3.greyPartFour{
+    max-width: 53%;
+    margin-top: 2rem;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+h3.greyPartFour span{
+    background-color: #73777B;
+}
+
+div.greyPartFour div.buttons{
+    margin: 2.5rem 0 2rem 0;
+}
+
+
+div.end{
+    background-color: #297abe;
+    padding: 1rem 0 1rem 0;
+}
+
+div.end p{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    top: 50%;
+}
+
+@media (max-width: 768px) {
+    html,body{
+        font-size: 30%;
+    }
+
+    .btnDivs i{
+        font-size: 1.2rem;
+    }
+
+    .Mobile{
+        max-width: 4.9rem;      
+    }
+
+    ul.greyPartTwo{
+        margin-left: 2rem;
+    }
+        
+    img.doctor{
+        top: 22.1rem;
+    }
+
+}
