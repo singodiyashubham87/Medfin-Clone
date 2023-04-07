@@ -1,2 +1,2 @@
 # Medfin-Clone
-Medfin landing page clone
+Medfin landing page clone.
